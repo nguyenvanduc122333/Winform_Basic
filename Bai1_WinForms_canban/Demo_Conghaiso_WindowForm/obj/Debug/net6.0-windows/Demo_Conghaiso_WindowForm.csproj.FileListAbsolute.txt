@@ -1,0 +1,16 @@
+G:\K\Ky 1_Nam 4\C#\lab\Demo_Conghaiso_WindowForm\Demo_Conghaiso_WindowForm\bin\Debug\net6.0-windows\Demo_Conghaiso_WindowForm.exe
+G:\K\Ky 1_Nam 4\C#\lab\Demo_Conghaiso_WindowForm\Demo_Conghaiso_WindowForm\bin\Debug\net6.0-windows\Demo_Conghaiso_WindowForm.deps.json
+G:\K\Ky 1_Nam 4\C#\lab\Demo_Conghaiso_WindowForm\Demo_Conghaiso_WindowForm\bin\Debug\net6.0-windows\Demo_Conghaiso_WindowForm.runtimeconfig.json
+G:\K\Ky 1_Nam 4\C#\lab\Demo_Conghaiso_WindowForm\Demo_Conghaiso_WindowForm\bin\Debug\net6.0-windows\Demo_Conghaiso_WindowForm.dll
+G:\K\Ky 1_Nam 4\C#\lab\Demo_Conghaiso_WindowForm\Demo_Conghaiso_WindowForm\bin\Debug\net6.0-windows\Demo_Conghaiso_WindowForm.pdb
+G:\K\Ky 1_Nam 4\C#\lab\Demo_Conghaiso_WindowForm\Demo_Conghaiso_WindowForm\obj\Debug\net6.0-windows\Demo_Conghaiso_WindowForm.Form1.resources
+G:\K\Ky 1_Nam 4\C#\lab\Demo_Conghaiso_WindowForm\Demo_Conghaiso_WindowForm\obj\Debug\net6.0-windows\Demo_Conghaiso_WindowForm.csproj.GenerateResource.cache
+G:\K\Ky 1_Nam 4\C#\lab\Demo_Conghaiso_WindowForm\Demo_Conghaiso_WindowForm\obj\Debug\net6.0-windows\Demo_Conghaiso_WindowForm.GeneratedMSBuildEditorConfig.editorconfig
+G:\K\Ky 1_Nam 4\C#\lab\Demo_Conghaiso_WindowForm\Demo_Conghaiso_WindowForm\obj\Debug\net6.0-windows\Demo_Conghaiso_WindowForm.AssemblyInfoInputs.cache
+G:\K\Ky 1_Nam 4\C#\lab\Demo_Conghaiso_WindowForm\Demo_Conghaiso_WindowForm\obj\Debug\net6.0-windows\Demo_Conghaiso_WindowForm.AssemblyInfo.cs
+G:\K\Ky 1_Nam 4\C#\lab\Demo_Conghaiso_WindowForm\Demo_Conghaiso_WindowForm\obj\Debug\net6.0-windows\Demo_Conghaiso_WindowForm.csproj.CoreCompileInputs.cache
+G:\K\Ky 1_Nam 4\C#\lab\Demo_Conghaiso_WindowForm\Demo_Conghaiso_WindowForm\obj\Debug\net6.0-windows\Demo_Conghaiso_WindowForm.dll
+G:\K\Ky 1_Nam 4\C#\lab\Demo_Conghaiso_WindowForm\Demo_Conghaiso_WindowForm\obj\Debug\net6.0-windows\refint\Demo_Conghaiso_WindowForm.dll
+G:\K\Ky 1_Nam 4\C#\lab\Demo_Conghaiso_WindowForm\Demo_Conghaiso_WindowForm\obj\Debug\net6.0-windows\Demo_Conghaiso_WindowForm.pdb
+G:\K\Ky 1_Nam 4\C#\lab\Demo_Conghaiso_WindowForm\Demo_Conghaiso_WindowForm\obj\Debug\net6.0-windows\Demo_Conghaiso_WindowForm.genruntimeconfig.cache
+G:\K\Ky 1_Nam 4\C#\lab\Demo_Conghaiso_WindowForm\Demo_Conghaiso_WindowForm\obj\Debug\net6.0-windows\ref\Demo_Conghaiso_WindowForm.dll

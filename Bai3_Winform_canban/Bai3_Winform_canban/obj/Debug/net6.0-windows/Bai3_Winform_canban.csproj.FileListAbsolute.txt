@@ -1,0 +1,6 @@
+G:\K\Ky 1_Nam 4\C#\lab\Lab_WindowsFrom\Bai3_Winform_canban\Bai3_Winform_canban\obj\Debug\net6.0-windows\Bai3_Winform_canban.Form1.resources
+G:\K\Ky 1_Nam 4\C#\lab\Lab_WindowsFrom\Bai3_Winform_canban\Bai3_Winform_canban\obj\Debug\net6.0-windows\Bai3_Winform_canban.csproj.GenerateResource.cache
+G:\K\Ky 1_Nam 4\C#\lab\Lab_WindowsFrom\Bai3_Winform_canban\Bai3_Winform_canban\obj\Debug\net6.0-windows\Bai3_Winform_canban.GeneratedMSBuildEditorConfig.editorconfig
+G:\K\Ky 1_Nam 4\C#\lab\Lab_WindowsFrom\Bai3_Winform_canban\Bai3_Winform_canban\obj\Debug\net6.0-windows\Bai3_Winform_canban.AssemblyInfoInputs.cache
+G:\K\Ky 1_Nam 4\C#\lab\Lab_WindowsFrom\Bai3_Winform_canban\Bai3_Winform_canban\obj\Debug\net6.0-windows\Bai3_Winform_canban.AssemblyInfo.cs
+G:\K\Ky 1_Nam 4\C#\lab\Lab_WindowsFrom\Bai3_Winform_canban\Bai3_Winform_canban\obj\Debug\net6.0-windows\Bai3_Winform_canban.csproj.CoreCompileInputs.cache

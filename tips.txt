@@ -1,0 +1,8 @@
+● Day 1: Node basic concepts - Libuv, Event loop, Libev.
+● Day 2: Building a Web Server in Node.
+● Day 3: Node modules and NPM.
+● Day 4: File system module.
+● Day 5: Express framework.
+● Day 6: Databases - MySQL, MongoDB, PostgreSQL and Redis.
+● Day 7: Deployment - deploying applications in Digitalocean
+Server.

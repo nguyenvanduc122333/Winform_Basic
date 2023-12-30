@@ -1,0 +1,16 @@
+G:\K\Ky 1_Nam 4\C#\lab\Lab_WindowsFrom\Bai2_WinForms_canban\Bai2_WinForms_canban\bin\Debug\net6.0-windows\Bai2_WinForms_canban.exe
+G:\K\Ky 1_Nam 4\C#\lab\Lab_WindowsFrom\Bai2_WinForms_canban\Bai2_WinForms_canban\bin\Debug\net6.0-windows\Bai2_WinForms_canban.deps.json
+G:\K\Ky 1_Nam 4\C#\lab\Lab_WindowsFrom\Bai2_WinForms_canban\Bai2_WinForms_canban\bin\Debug\net6.0-windows\Bai2_WinForms_canban.runtimeconfig.json
+G:\K\Ky 1_Nam 4\C#\lab\Lab_WindowsFrom\Bai2_WinForms_canban\Bai2_WinForms_canban\bin\Debug\net6.0-windows\Bai2_WinForms_canban.dll
+G:\K\Ky 1_Nam 4\C#\lab\Lab_WindowsFrom\Bai2_WinForms_canban\Bai2_WinForms_canban\bin\Debug\net6.0-windows\Bai2_WinForms_canban.pdb
+G:\K\Ky 1_Nam 4\C#\lab\Lab_WindowsFrom\Bai2_WinForms_canban\Bai2_WinForms_canban\obj\Debug\net6.0-windows\Bai2_WinForms_canban.Form1.resources
+G:\K\Ky 1_Nam 4\C#\lab\Lab_WindowsFrom\Bai2_WinForms_canban\Bai2_WinForms_canban\obj\Debug\net6.0-windows\Bai2_WinForms_canban.csproj.GenerateResource.cache
+G:\K\Ky 1_Nam 4\C#\lab\Lab_WindowsFrom\Bai2_WinForms_canban\Bai2_WinForms_canban\obj\Debug\net6.0-windows\Bai2_WinForms_canban.GeneratedMSBuildEditorConfig.editorconfig
+G:\K\Ky 1_Nam 4\C#\lab\Lab_WindowsFrom\Bai2_WinForms_canban\Bai2_WinForms_canban\obj\Debug\net6.0-windows\Bai2_WinForms_canban.AssemblyInfoInputs.cache
+G:\K\Ky 1_Nam 4\C#\lab\Lab_WindowsFrom\Bai2_WinForms_canban\Bai2_WinForms_canban\obj\Debug\net6.0-windows\Bai2_WinForms_canban.AssemblyInfo.cs
+G:\K\Ky 1_Nam 4\C#\lab\Lab_WindowsFrom\Bai2_WinForms_canban\Bai2_WinForms_canban\obj\Debug\net6.0-windows\Bai2_WinForms_canban.csproj.CoreCompileInputs.cache
+G:\K\Ky 1_Nam 4\C#\lab\Lab_WindowsFrom\Bai2_WinForms_canban\Bai2_WinForms_canban\obj\Debug\net6.0-windows\Bai2_WinForms_canban.dll
+G:\K\Ky 1_Nam 4\C#\lab\Lab_WindowsFrom\Bai2_WinForms_canban\Bai2_WinForms_canban\obj\Debug\net6.0-windows\refint\Bai2_WinForms_canban.dll
+G:\K\Ky 1_Nam 4\C#\lab\Lab_WindowsFrom\Bai2_WinForms_canban\Bai2_WinForms_canban\obj\Debug\net6.0-windows\Bai2_WinForms_canban.pdb
+G:\K\Ky 1_Nam 4\C#\lab\Lab_WindowsFrom\Bai2_WinForms_canban\Bai2_WinForms_canban\obj\Debug\net6.0-windows\Bai2_WinForms_canban.genruntimeconfig.cache
+G:\K\Ky 1_Nam 4\C#\lab\Lab_WindowsFrom\Bai2_WinForms_canban\Bai2_WinForms_canban\obj\Debug\net6.0-windows\ref\Bai2_WinForms_canban.dll
